@@ -1,0 +1,2 @@
+# Ignoruj pliki zawierające "log" w nazwie
+*log*.txt
